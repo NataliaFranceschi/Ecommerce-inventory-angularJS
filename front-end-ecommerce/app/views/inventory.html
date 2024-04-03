@@ -1,0 +1,40 @@
+<div class="header">
+    <img src="../../logoBranco.png" />
+    <label class="search"> Procurar produto:
+        <input type="text" ng-model="productFilter.name"/>
+    </label>
+    <button class="logout" ng-click="logout()">Sair</button>
+</div>
+<div class="body">
+    <form ng-submit="createProduct()">
+        <label>Imagem:
+        <input type="text" id="image" ng-model="productData.image"></label>
+        <label>Nome:
+        <input type="text" id="name" ng-model="productData.name" required></label>
+        <label>Descrição:
+        <input type="text" id="description" ng-model="productData.description"></label>
+        <label>Preço:
+        <input type="text" id="price" ng-model="productData.price"></label>
+        <label>Quantidade:
+        <input type="number" id="quantity" ng-model="productData.quantity"></label>
+        <button type="submit">Criar novo produto</button>
+        <button type="button" ng-click="updateProduct()">Salvar Alterações</button>
+    </form>        
+
+    <table>
+        <tr>
+            <th>Nome</th>
+            <th>Descrição</th>
+            <th>Quantidade</th>
+            <th>Preço</th>
+        </tr>
+        <tr ng-repeat="product in products | filter:productFilter">
+            <td>{{product.name}}</td>
+            <td>{{product.description}}</td>
+            <td>{{product.quantity}}</td>
+            <td>{{product.price}}</td>
+            <td><button ng-click="remove(product.id, $index)">Deletar</button></td>
+            <td><button ng-click="edit(product)">Editar</button></td>
+        </tr>
+    </table>
+</div>

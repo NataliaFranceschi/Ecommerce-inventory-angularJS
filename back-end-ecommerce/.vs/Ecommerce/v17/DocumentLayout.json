@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\migrations\\20240327191044_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\migrations\\20240327191044_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\06fa00f3-7882-47fb-8989-28e43ab8e185\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3750EEA-29E2-41B2-B3F2-F2F3ED5D592B}|Ecommerce.Test\\Ecommerce.Test.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce.test\\controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3750EEA-29E2-41B2-B3F2-F2F3ED5D592B}|Ecommerce.Test\\Ecommerce.Test.csproj|solutionrelative:ecommerce.test\\controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\database\\databaseextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\database\\databaseextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\database\\migrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\database\\migrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\ecommerce.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\ecommerce.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3750EEA-29E2-41B2-B3F2-F2F3ED5D592B}|Ecommerce.Test\\Ecommerce.Test.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce.test\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3750EEA-29E2-41B2-B3F2-F2F3ED5D592B}|Ecommerce.Test\\Ecommerce.Test.csproj|solutionrelative:ecommerce.test\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3750EEA-29E2-41B2-B3F2-F2F3ED5D592B}|Ecommerce.Test\\Ecommerce.Test.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce.test\\seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3750EEA-29E2-41B2-B3F2-F2F3ED5D592B}|Ecommerce.Test\\Ecommerce.Test.csproj|solutionrelative:ecommerce.test\\seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3750EEA-29E2-41B2-B3F2-F2F3ED5D592B}|Ecommerce.Test\\Ecommerce.Test.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce.test\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3750EEA-29E2-41B2-B3F2-F2F3ED5D592B}|Ecommerce.Test\\Ecommerce.Test.csproj|solutionrelative:ecommerce.test\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|c:\\users\\usuario\\documents\\curso csharp ada\\ecommerce-angular\\back-end-ecommerce\\ecommerce\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C1BB33-1F9B-4C9B-B138-076E527F1B71}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce\\.gitignore",
+              "RelativeDocumentMoniker": "..\\..\\Ecommerce\\.gitignore",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce\\.gitignore",
+              "RelativeToolTip": "..\\..\\Ecommerce\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-31T23:20:41.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ecommerce",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Ecommerce.csproj",
+              "RelativeDocumentMoniker": "Ecommerce\\Ecommerce.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Ecommerce.csproj",
+              "RelativeToolTip": "Ecommerce\\Ecommerce.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-31T14:58:13.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Ecommerce\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T02:00:47.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Ecommerce\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:00:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Ecommerce\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:59:35.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Seeding.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce.Test\\Seeding.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Test\\Seeding.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce.Test\\Seeding.cs",
+              "RelativeToolTip": "Ecommerce.Test\\Seeding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:45:43.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:49:09.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Ecommerce\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:55:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:26:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Database\\DatabaseExtension.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Database\\DatabaseExtension.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Database\\DatabaseExtension.cs",
+              "RelativeToolTip": "Ecommerce\\Database\\DatabaseExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:38:41.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MigrationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Database\\MigrationExtension.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Database\\MigrationExtension.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Database\\MigrationExtension.cs",
+              "RelativeToolTip": "Ecommerce\\Database\\MigrationExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:30:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Ecommerce\\Database\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA6wAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:10:33.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce.Test\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Test\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce.Test\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "Ecommerce.Test\\CustomWebApplicationFactory.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAABYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:37:24.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce.Test\\ControllerTest.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Test\\ControllerTest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce.Test\\ControllerTest.cs",
+              "RelativeToolTip": "Ecommerce.Test\\ControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:19:45.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce.Test\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Test\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce.Test\\GlobalUsing.cs",
+              "RelativeToolTip": "Ecommerce.Test\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:16:00.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\06fa00f3-7882-47fb-8989-28e43ab8e185\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\06fa00f3-7882-47fb-8989-28e43ab8e185\\secrets.json",
+              "ToolTip": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\06fa00f3-7882-47fb-8989-28e43ab8e185\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\06fa00f3-7882-47fb-8989-28e43ab8e185\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T19:12:12.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240327191044_CreateDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Migrations\\20240327191044_CreateDataBase.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Migrations\\20240327191044_CreateDataBase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Migrations\\20240327191044_CreateDataBase.cs",
+              "RelativeToolTip": "Ecommerce\\Migrations\\20240327191044_CreateDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:10:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\Program.cs",
+              "RelativeToolTip": "Ecommerce\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:05:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Curso CSharp Ada\\Ecommerce-angular\\back-end-ecommerce\\Ecommerce\\appsettings.json",
+              "RelativeToolTip": "Ecommerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T19:05:19.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

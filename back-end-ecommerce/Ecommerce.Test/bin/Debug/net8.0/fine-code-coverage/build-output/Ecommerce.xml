@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ecommerce</name>
+    </assembly>
+    <members>
+        <member name="T:ProductController">
+            <summary>
+            Controller utilizado para operações de CRUD de produtos.
+            Requer autenticação para acessar suas funcionalidades.
+            </summary>
+        </member>
+        <member name="M:ProductController.GetAll">
+            <summary>
+            Retorna todos os produtos cadastrados.
+            </summary>
+            <response code="200">Retorna todos os produtos ou uma lista vazia caso não tenha produtos cadastrados.</response>
+            <response code="401">Não autorizado.</response>
+        </member>
+        <member name="M:ProductController.GetById(System.Guid)">
+            <summary>
+            Retorna as informacoes sobre o produto com id específico.
+            </summary>
+            <param name="id">Id do produto.</param>
+            <response code="200">Retorna os dados do produto, quando encontrado.</response>
+            <response code="404">Produto não encontrado.</response>
+            <response code="401">Não autorizado.</response>
+        </member>
+        <member name="M:ProductController.GetByName(System.String)">
+            <summary>
+            Retorna as informações sobre os produtos com o nome correspondente ao parametro fornecido.
+            </summary>
+            <param name="name">Palavra que deseja ser procurada.</param>
+            <response code="200">Retorna os dados dos produtos cujo nome corresponde a procura, caso não tenha correspondência retorna uma lista vazia.</response>
+            <response code="401">Não autorizado.</response>
+        </member>
+        <member name="M:ProductController.Create(ProductRequest)">
+            <summary>
+            Cria um novo produto no banco de dados.
+            </summary>
+            <param name="product">Dados do produto.</param>
+            <response code="201">Produto foi criado com sucesso.</response>
+            <response code="400">Dados da requisição são inválidos.</response>
+            <response code="401">Não autorizado.</response>
+        </member>
+        <member name="M:ProductController.Update(ProductDTO)">
+            <summary>
+            Atualiza um produto com o id específico.
+            </summary>
+            <param name="product">Dados atualizados do produto.</param>
+            <response code="200">Produto foi atualizado com sucesso.</response>
+            <response code="400">Dados da requisição são inválidos.</response>
+            <response code="404">Produto não encontrado.</response>
+            <response code="401">Não autorizado.</response>
+        </member>
+        <member name="M:ProductController.Delete(System.Guid)">
+            <summary>
+            Deleta o produto com id específico/>
+            </summary>
+            <param name="id">Id do produto.</param>
+            <response code="204">Produto deletado com sucesso.</response>
+            <response code="404">Produto não encontrado.</response>
+            <response code="401">Não autorizado.</response>
+        </member>
+        <member name="T:LoginController">
+            <summary>
+            Controller responsável por lidar com solicitações de login e autenticação de usuários.
+            </summary>
+        </member>
+        <member name="M:LoginController.Login(LoginDTO)">
+            <summary>
+            Retorna um token.
+            </summary>
+            <response code="200">Retorna um token caso usuário for autenticado com sucesso.</response>
+            <response code="401">Não autorizado.</response>
+        </member>
+        <member name="T:Ecommerce.Migrations.CreateDataBase">
+            <inheritdoc />
+        </member>
+        <member name="M:Ecommerce.Migrations.CreateDataBase.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Ecommerce.Migrations.CreateDataBase.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Ecommerce.Migrations.CreateDataBase.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
